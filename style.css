@@ -99,6 +99,7 @@ h3 {
 }
 
 
+
 .grid a {
     display: grid;
     background-color: rgb(0, 0, 0);
@@ -135,12 +136,14 @@ h3 {
 
 }
 
+.home .grid a:hover video {
+    opacity: 0.5;
+    transition: 0.3s ease-in-out;
+
+}
+
 img, video {
     max-width: 100%;
     height: auto;
 }
 
-
-.sticky {
-    position: sticky;
-}
