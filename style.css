@@ -41,10 +41,12 @@ h2 {
 }
 
 h3 {
-    font-size: 40px;
+    font-size: 8px;
     color: #ac2348;
     font-family: "Avenir light";
     font-weight: 400;
+    text-align: end;
+    
 
 
 }
@@ -147,6 +149,3 @@ img, video {
     height: auto;
 }
 
-.footer {
-    text-align: center;
-}
